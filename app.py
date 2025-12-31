@@ -5,7 +5,7 @@ import joblib
 import numpy as np
 
 st.set_page_config(
-    page_title="E-Shop Conversion Predictor",
+    page_title="Clickstream Customer Conversion",
     page_icon="🛒",
     layout="wide"
 )
