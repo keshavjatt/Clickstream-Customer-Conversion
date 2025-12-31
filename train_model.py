@@ -1,4 +1,3 @@
-# train_model.py (CORRECTED VERSION)
 import os
 import pandas as pd
 import numpy as np
